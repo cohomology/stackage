@@ -9,6 +9,9 @@ cabal-format-version: "2.4"
 
 # Constraints for brand new builds
 packages:
+    "Kilian Kilger <kkilger@gmail.com> @cohomology":
+        - gi-cairo-render 
+
     "Callan McGill <callan.mcgill@gmail.com> @callanmcgill":
         - perfect-vector-shuffle
 
